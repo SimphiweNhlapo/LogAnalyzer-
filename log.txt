@@ -1,0 +1,11 @@
+2025-05-01 08:00:00 [INFO] Server started successfully
+2025-05-01 08:01:10 [ERROR] NullPointerException at Main.java:23
+2025-05-01 08:03:15 [WARN] Deprecated method in use
+2025-05-01 08:04:10 [INFO] Request received from IP 192.168.1.10
+2025-05-01 08:06:20 [ERROR] Database connection failed
+2025-05-01 08:07:00 [INFO] Scheduled job executed
+2025-05-01 08:10:30 [WARN] Memory usage exceeded threshold
+2025-05-01 08:00:00 [INFO] 2024-01-10 User John logged in.
+2025-05-01 08:00:00 [ERROR] 2024-01-10 Failed to load config for John.
+2025-05-01 08:00:00 [INFO] 2024-01-11 User Alice logged out.
+
